@@ -1,0 +1,23 @@
+/* General styles */
+body, td { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; color: #383838; margin: 0 0 0 0;}
+body{ background-color: #D1CFCF;}
+th { background-color: #aaaaaa; text-width: bold; text-decoration: none; color: white; font-size: 11px;}
+th.winheader { text-width: bold; text-decoration: none; color: black;}
+
+a{ text-decoration: none; color: #333333}
+a:hover{ text-decoration: underline; color: #ff0000; }
+
+table.blackborder { background-color: black }
+table.grayborder { background-color: gray }
+.window {background-color: #ffffff; border: 1px solid gray}
+.row1 { background-color: #ffffff }
+.row2 { background-color: #eeeeee }
+.row3 { background-color: #dddddd }
+
+input, textarea, select {
+    font-size:11px;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; font-weight:normal;
+    font-style:normal; color:#000000;
+}
+FORM{ margin-bottom: 0; margin-top: 0; }
+ul{ margin-top: 8px; margin-bottom: 8px; }
